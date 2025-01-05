@@ -1,2 +1,3 @@
-# cmpe_template_python
-Starter template for cmpe2850 or python projects
+# Template Repo for Python (CMPE2850).
+
+Customize to provide information on your repo as directed.
