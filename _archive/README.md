@@ -1,2 +1,3 @@
-# cmpe_template_python
-Starter template for cmpe2850 or python projects
+# Archive
+
+Please place items here that are not for marking, like test projects, prototypes, starter versions of ICAs/Labs, etc...
